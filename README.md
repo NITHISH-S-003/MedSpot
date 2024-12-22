@@ -1,2 +1,2 @@
 # MedSpot
-Medspot: Simplify healthcare with easy booking for doctors, specialists, and diagnostic centers. View provider profiles, consult through telemedicine, order medications, and manage health records—all in one place. Comprehensive and convenient healthcare services at your fingertips.
+Medspot: Book appointments with doctors, specialists &amp; diagnostic centers. Access provider details, consult via telemedicine, order meds, manage health records. Convenient, comprehensive healthcare services.
